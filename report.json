@@ -1,0 +1,86 @@
+{
+  "summary": {
+    "total_books": 20,
+    "total_readers": 8,
+    "total_loans": 180,
+    "active_loans": 34,
+    "total_debt": 16800
+  },
+  "top_readers": [
+    {
+      "name": "Сидоров Сергей",
+      "active_books": 5,
+      "total_cost": 3020,
+      "most_expensive_book": "Властелин колец"
+    },
+    {
+      "name": "Васильева Ольга",
+      "active_books": 6,
+      "total_cost": 3000,
+      "most_expensive_book": "Властелин колец"
+    },
+    {
+      "name": "Петрова Анна",
+      "active_books": 6,
+      "total_cost": 2790,
+      "most_expensive_book": "Гарри Поттер и философский камень"
+    },
+    {
+      "name": "Смирнов Алексей",
+      "active_books": 5,
+      "total_cost": 2360,
+      "most_expensive_book": "Гарри Поттер и философский камень"
+    },
+    {
+      "name": "Иванов Иван",
+      "active_books": 4,
+      "total_cost": 2020,
+      "most_expensive_book": "Гарри Поттер и Тайная комната"
+    }
+  ],
+  "genre_statistics": [
+    {
+      "роман": {
+        "count": 9,
+        "cost": 4600,
+        "popular": 77
+      },
+      "повесть": {
+        "count": 2,
+        "cost": 630,
+        "popular": 21
+      },
+      "поэма": {
+        "count": 1,
+        "cost": 420,
+        "popular": 10
+      },
+      "комедия": {
+        "count": 1,
+        "cost": 300,
+        "popular": 11
+      },
+      "фантастика": {
+        "count": 2,
+        "cost": 950,
+        "popular": 19
+      },
+      "антиутопия": {
+        "count": 1,
+        "cost": 520,
+        "popular": 5
+      },
+      "притча": {
+        "count": 1,
+        "cost": 350,
+        "popular": 8
+      },
+      "фэнтези": {
+        "count": 3,
+        "cost": 2420,
+        "popular": 29
+      }
+    }
+  ],
+  "debtors": []
+}
